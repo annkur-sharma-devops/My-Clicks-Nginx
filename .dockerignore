@@ -33,3 +33,7 @@ LICENSE
 # Docker related
 docker-compose.yml
 .dockerignore
+
+# Other folders
+archived-files
+archived-files/*
